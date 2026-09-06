@@ -347,9 +347,9 @@ int view_feedback(){
 }
 
 int admin_logout(){
-    system("cls");
-    printf("                                                                                      +==================================+\n");
-    printf("                                                                                      |        Log Out Successfully      |\n");
+     system("cls");
+     printf("                                                                                      +==================================+\n");
+     printf("                                                                                      |        Log Out Successfully      |\n");
     printf("                                                                                      +==================================+\n");
     printf("                                                                                             Press Enter To Go Back ");
     getchar();
